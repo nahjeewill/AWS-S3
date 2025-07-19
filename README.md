@@ -47,7 +47,8 @@ Open your new bucket
 
 Click Upload
 
-Add index.html
+Add <your-file-name>.html
+* S3 is case-sensitive. The file name has to be lower case with ".html" at the end.
 
 5. Enable Static Website Hosting
 Go to the Properties tab
@@ -60,7 +61,7 @@ Choose Enable
 
 Set:
 
-Index document: index.html
+Index document: <your-file-name>.html
 
 Save changes
 
