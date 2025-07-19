@@ -1,4 +1,5 @@
-🚀 AWS S3 Static Website Hosting
+# 🚀 AWS S3 Static Website Hosting
+
 This project demonstrates how to host a static website using Amazon S3, leveraging the AWS Free Tier. It includes creating an S3 bucket, enabling static hosting, and making the content publicly accessible.
 
 📦 What I Used
